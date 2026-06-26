@@ -1,0 +1,8 @@
+.venv/
+data/
+.kaggle/
+.matplotlib/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
